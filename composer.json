@@ -1,0 +1,15 @@
+{
+    "name": "parzibyte/validar-formularios-php",
+    "description": "Ejemplo de validaci\u0000n en PHP usando Valitron",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ],
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
